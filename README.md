@@ -1,2 +1,0 @@
-# AsyncFetching
-Created with CodeSandbox
